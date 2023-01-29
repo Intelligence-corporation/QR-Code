@@ -2,8 +2,7 @@ import qrcode
 
 
 data = {
-    '01': "https://intelligence-corporation.github.io/GCM-WWW/010001/mat00001.html",
-    '02': "https://intelligence-corporation.github.io/GCM-WWW/010001/mat00002.html"
+    '01': "https://intelligence-corporation.github.io/GCM-WWW/010001/mat00001.html"
 }
 
 if __name__ == '__main__':
