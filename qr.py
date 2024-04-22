@@ -2,7 +2,7 @@ import qrcode
 
 
 data = {
-    '00-segmuc': "https://segmuc.altamira.pa.gov.br/",
+    'anny': "https://segmuc.altamira.pa.gov.br/",
 }
 
 if __name__ == '__main__':
