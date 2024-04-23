@@ -2,7 +2,7 @@ import qrcode
 
 
 data = {
-    'anny': "https://segmuc.altamira.pa.gov.br/",
+    'puzzle': "https://belgercompany.com/secrecy/miss_me.php",
 }
 
 if __name__ == '__main__':
