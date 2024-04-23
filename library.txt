@@ -1,0 +1,5 @@
+To install Pillow and Qrcode
+commands:
+
+pip install Pillow
+pip install qrcode
