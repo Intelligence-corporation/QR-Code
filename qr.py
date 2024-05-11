@@ -2,7 +2,7 @@ import qrcode
 
 
 data = {
-    'puzzle': "https://belgercompany.com/secrecy/miss_me.php",
+    'puzzle': "https://www.google.com.br",
 }
 
 if __name__ == '__main__':
