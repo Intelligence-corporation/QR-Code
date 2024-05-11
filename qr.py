@@ -14,7 +14,7 @@ while ok == 1:
         while confirmation.lower() not in ['s', 'n']:
             confirmation = input("Please enter 's' for yes or 'n' for no: ")
         if confirmation.lower() == 's':
-            links["QR{}".format(c+1)] = link
+            links["qrcode/QR{}".format(c+1)] = link
     ok = 0
 
 # Gerar QR codes para cada link
